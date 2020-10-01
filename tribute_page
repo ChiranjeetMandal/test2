@@ -1,0 +1,47 @@
+<HTML id="main">
+  <h1 id="title"> "MAHATMA GANDHI" </h1>
+  
+  <div id="img-div"> 
+  <img id="image" src=https://cdn.dnaindia.com/sites/default/files/styles/full/public/2019/03/26/805913-mahatma-gandhi-2.jpg alt ="mahatma Gandhi"  ></img></div>
+  <p id="img-caption"> MAHATMA GANDHI also known as BAPU. </p>
+  <p id="tribute-info">A gamut of ailments troubled Mahatma Gandhi during his lifetime whose constant companion was high blood pressure. The Father of the Nation may not have bowed down to the British, but malaria got the better of him thrice.
+<br>
+These nuggets of information are part of files, published for the first time, by the Indian Council Medical Research, giving all recorded details of Gandhi's health profile and his daily routines.   
+<br>
+Gandhi was down with Malaria in 1925, 1936, and 1944. He weighed only 46.7 kilograms at 165 centimeters in 1939, with a body mass index of 17.1, meaning he was 'underweight' as per current Ministry of Health estimates.
+    <br>
+
+The records also show that he was operated for piles and appendicitis in 1919 and 1924 respectively.
+    <br>
+
+Gandhi suffered from high blood pressure. "As per health file of Gandhiji (1924-47), his blood pressure readings were as high as 194/130 and 220/110 [on Oct 26, 1937, and February 19, 1940]. In between as well, his blood pressure readings were higher than normal and touched 170/110 and 180/105," says the published material. <br>
+    for more info 
+  </p>
+  <a id="tribute-link" href="https://www.dnaindia.com/india/report-mahatma-gandhi-had-high-bp-got-malaria-thrice-2733309"\target="_blank"> click here </a>
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+</HTML>
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+CSS
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+h1{
+  text-align: center;
+  color: green;
+}
+img{
+  
+width: 100%;
+height: auto;
+max-width: 625px;
+margin-left: auto;
+margin-right: auto;
+display: block;
+}
